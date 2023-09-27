@@ -8,7 +8,7 @@ Contributors: TBD
      
      
 ### Overview:
-According to the IPCC's Fifth Assessment Report, by 2100 sea levels could rise by 0.26 to 0.55 metres under a low-emission scenario and 0.45 to 0.82 metres under a high-emission scenario. The uncertainty in ice-sheet projections dominates trajectories of future global sea level for the second half of this century and beyond. Climate Adaptation Modelling will cater to 3rd year Geography and MSc students interested in gaining holistic understanding of how uncertainties in emission scenarios and associated cryospheric change affect mitigation and adaptation strategies, focussing of low-lying, densely populated coastal areas.
+According to the IPCC's Fifth Assessment Report, by 2100 sea levels could rise by 0.26 to 0.55 metres under a low-emission scenario and 0.45 to 0.82 metres under a high-emission scenario. The uncertainty in ice-sheet projections dominates trajectories of future global sea level for the second half of this century and beyond. Climate Adaptation Modelling will cater to 3rd year Earth Sciences, Geography and MSc students interested in gaining holistic understanding of how uncertainties in emission scenarios and associated cryospheric change affect mitigation and adaptation strategies, focussing of low-lying, densely populated coastal areas.
 
 <img width="622" alt="Screenshot 2023-06-05 at 19 51 06" src="https://github.com/sashamontelli/Climate-Adaptation-Modelling-Course/assets/31952369/e7343797-4cde-4324-b4ec-1e20982a5dc6">
 
