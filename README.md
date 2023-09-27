@@ -1,6 +1,6 @@
-## GEOG00XX Climate Adaptation Modelling
+## ES00XX Climate Adaptation Modelling
 
-Department of Geography, University College London: Proposed Paper
+Department of Earth Sciences, University of Cambridge: Proposed Paper
 
 Course tutor: Dr. Aleksandr Montelli
 
